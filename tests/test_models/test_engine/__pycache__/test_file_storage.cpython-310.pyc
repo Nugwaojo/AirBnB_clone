@@ -1,0 +1,171 @@
+o
+ unittests for models/engine/file_storage.py.
+
+Unittest classes:
+    TesFi eS=orage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+ Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeviedr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview NúBaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+aveop nÚ=eaNr>   r?   )
+rvr   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   ra  r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+rvr   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r           	      C   saveÚopenÚreadr>   r?   )
+rvr   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r  t ƒ }aveÚopenÚreadr>   r?   )
+rvr   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   rtaveÚopenÚreadr>   r?   )
+rvr   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+   r   r   r    rN   rseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeviewz TestFileStorage_methods.test_newc Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview            Nú
+easeModel.úUser.úState.úPlace.úCity.Amenity.úeview     C   s@   | Ât_new_with_argsf   s   dr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+adr   r   r>   r?   )	rvr   rB   rC   rD   rE   rF   rG   rH   Zobjsr   r   r  Úてst_reload‰   s0   eeeeeeeeeeeeee
+e
+   r   r   r    rT   r
+	r   r   r  Útest_reload_with_arg£   r4   z,TestFileStorage_methods.test_reload_with_argN)"aseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeviewz TestFileStorage_methods.test_newc Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview            Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview     C   s@   | Â"ÿz*TestFileStorage_methods.test_new_with_argscdr2   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeviewz TestFileStorage_methods.test_newc Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview            Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview     C   s@   | Â           
+
+
+Ú	BaseModel)o
+
+ÚileStorage)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚPlace)o
+
+ÚCity)o
+
+Úmenity)o
+
+ )
+ÚTestFileStorage_instantiationz=Unittests for testing instantiation of the FileStorage class.c unittests for models/engine/file_storage.py.
+
+Unittest classes:
+    TestFileStorage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+datetime)o
+
+Ú	BaseModel)o
+
+ÚileStorage)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚPlace)o
+
+ÚCity)o
+
+Úmenity)o
+
+ÚReviewc                            unittests for models/engine/file_storage.py.
+
+Unittest classes:
+    TestFileStorage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+datetime)o
+
+Ú	BaseModel)o
+
+ÚileStorage)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚPlace)o
+
+ÚCity)o
+
+Úmenity)o
+
+ÚReviewc                      C   s   | tantiation_with_arg   s    
+	"ÿzETestFileStorage_instantiation.test_FileStorage_instantiatt_FileStorage_file_path_is_private_str!   r   zGTestFileStorage_instantiation.test_FileStorage_file_path_is_private_strctantiation_with_arg   s    
+ "ÿzETestFileStorage_instantiation.test_FileStorage_instantiati           tantiation_with_arg   s    
+ "ÿzETestFileStorage_instantiation.test_FileStorage_instantiati      C   r   r   )r
+		_FileStorage__objectsr  r   r   r  Ú'testFileStorage_objects_is_private_dict$   r   zETestFileStorage_instantiation.testFileStorage_objects_is_private_dictct_FileStorage_file_path_is_private_str!   r   zGTestFileStorage_instantiation.test_FileStorage_file_path_is_private_strctantiation_with_arg   s    
+ "ÿzETestFileStorage_instantiation.test_FileStorage_instantiati           tantiation_with_arg   s    
+ "ÿzETestFileStorage_instantiation.test_FileStorage_instantiati      C   r   r   )r
+	_FileStorage__objectsr           t_FileStorage_file_path_is_private_str!   r   zGTestFileStorage_instantiation.test_FileStorage_file_path_is_private_strctantiation_with_arg   s    
+ "ÿzETestFileStorage_instantiation.test_FileStorage_instantiati           tantiation_with_arg   s    
+ "ÿzETestFileStorage_instantiation.test_FileStorage_instantiati      C   r   r   )r
+	_FileStorage__objectsr      C   s   |   tt_FileStorage_file_path_is_private_str!   r   zGTestFileStorage_instantiation.test_FileStorage_file_path_is_private_strctantiation_with_arg   s    
+ "ÿzETestFileStorage_instantiation.test_FileStorage_instantiati           tantiation_with_arg   s    
+"ÿzETstil S oagrDown5   s   e_instantiationÿe_instantiationÿ
+z TestFileStorage_methods.tearDe i santiation.t_allA   s   z TestFileStorage_methods.test_allc                Ct_all_with_argD   ó   t_allA   s   z TestFileStorage_methods.test_allc                C est_FileStorage_instantiatit_allA   s   z TestFileStorage_methods.test_allc                C "ÿz)TestFileStorage_methods.test_all_with_argct_allA   s   z TestFileStorage_methods.test_allc                C              est_FileStorage_instantiati      C   r   r   )r
