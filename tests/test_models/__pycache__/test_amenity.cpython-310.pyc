@@ -1,18 +1,0 @@
-o
-
- unittests for models/amenity.py.
-
-Unittest classes:
-    TestAmenity_instantiation
-    TestAty_save.test_two_savesc unittests for models/amenity.py.
-
-Unittest classes:
-    TestAmenity_instantiation
-    TestAmenity_save
-    TestAmenity_to_dict
-m  ty_sat_save_with_arg~      "ÿz#TestAemenity.r@   Út_save_with_arg~      "ÿz#TestAr)r   rI   r   Úopenr   Úread)r
-r"   ZamidÚt_save_with_arg~      "ÿz#TestAfr  r  r   Útest_save_updates_fileƒ   s   t_save_with_arg~      "ÿz#Testt_save_with_arg~      "ÿz#TestA
-t_save_with_arg~      "ÿz#TestAt_save_with_arg~      "ÿz#TestA"ÿz'TestAmenity_save.test_save_updates_fileN):   r;   r<   r=   ÚlassmethodrE   rG   rK   rL   rN   rT   r  r  r  r   r>   X   s  t_save_with_arg~      "ÿz#TestA
-t_save_with_arg~      "ÿz#Test
-t_to_dict_contains_added_attributes˜   s
-

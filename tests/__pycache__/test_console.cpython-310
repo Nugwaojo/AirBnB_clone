@@ -1,106 +1,0 @@
-ommand_show.test_show_missing_id_space_notationchow Statez	show Cityzshow Amenityz
-	show Placezㄕow Reviewr   rI   r
-   r
-		eview.show()r   rI   r
-   r
-   reatete   Ú!wmenity.show(1)z
-	Place.show(1)zReview.show(1)r   rI   r
-   r
-menity.show(1)z
-	Place.show(1)zReview.show(1)r   rI   r
-   r
- menity.show(1)z
-	Place.show(1)zReview.show(1)r   rI   r
-   r
- menity.show(1)z
-	Place.show(1)zReview.show(1)r   rI   r
-   r
- Y menity.show(1)z
-	Place.show(1)zReview.show(1)r   rI   r
-   r
- t dmenity.show(1)z
-	Place.show(1)zReview.show(1)r   rI   r
-   r
-tmenity.show(1)z
-	Place.show(1)zReview.show(1)r   rI   r
-   r
-ƒ dÂest_show_missing_id_dot_notation
-ommand_show.test_show_missing_id_space_notationchow Statez	show Cityzshow Amenityz
-	show Placezㄕow Reviewr   rI   r
-   r
-            rm   z6TestHBNBCommand_show.test_show_missing_id_dot_notation
- instance found **rm   r   z6TestHBNBCommand_showshow BaseModel 1zㄕow User 1zshow State 1zㄕow City 1zㄕowshow Amenity 1zshow Place 1z
-	show Review 1r   rI   r
-   r
-tate.show(1)zCity.show(1)zmenity.show(1)z
-	Place.show(1)zReview.show(1)r   rI   r
-   r
-
-
-er {}rS   rT   ú
-_help_quit'   ó
-	reatete StateState.{}úⅻeate Cityúity.{}úcreate Amenityú
-Amenity.{}úcreate PlacePlace.{}ú
-r   r   Ú
- a ew class instant_create_object¤   sT   sTüüüüüü$üz)TestHBNBCommand_create.test_create_objectN)   r   r   r    ÚlassmethodrA   rF   rK   rM   rN   rc   r
-   r
-   r
-reate   r:   x   s   
-			how()r   rI   r
-   r
-f n
-how Statez	show Cityzshow Amenityz
-	show Placezㄕow Reviewr   rI   r
-   r
-class is specified, displays all instantiated objects.representations   r   help allr   r#   r
-   r
-   reate   Ú
-test_help_allI   s
-ss> or <class>.count()
-        Retrieve the number of instances of a given class.reate   r   z
-	help countr   r#   r
-   r
-ss>.update(<id>, <dictionary>)
-        Update a class instance of a given id by adding or updating
-		a given attribute key/value pair or dictionary.reate   r   zへlp updater   r#   r
-   r
-   reate   Útest_help_updateY   s
-	F  all  count  create  destroy  help  quit  show  updater   r   Úhelpr   r#   r
-   r
-   reate   Ú	test_helpc   r+   zTestHBNBCommand_help.test_helpN)
-r   r   r   r    r%   r'   r)   r*   r,   r-   r.   r/   r1   r
-   r
-   r
-reate   r!   $   s   ss>.update(<id>, <dictionary>)
-        Update a class instance of a given id by adding or updating
-		a given attribute key/value pair or dictionary.reate   r   zへlp updater   r#   r
-   r
-   reate   Útest_help_updateY  
-ssertTruer   r   re   r
-   r
-
-t_EOF_exitss   r8   z#TestHBNBCommand_exit.test_EOF_exitsN)r   r   r   r    r7   r9   r
-   r
-	rrDownƒ   ó   t_help_quitt_EOF_exitss   r8   z#TestHBNBCommand_exit.test_EOF_exitsN)r   r   r   r    r7   r9   r
-   r
-   r
-t_EOF_exitss   r8   z#TestHBNBCommand_exit.test_EOF_exitsN)r   r   r   r    r7   r9   r
-   r
-   r
-t_EOF_exitss   r8   z#TestHBNBCommand_exit.test_EOF_exitsN)r   r   r   r    r7   r9   r
-   r
-   r
-ÿt_EOF_exitss   r8   z#TestHBNBCommand_exit.test_EOF_exitsN)r   r   r   r    r7   r9   r
-   r
-   r
-t_EOF_exitss   r8   z#TestHBNBCommand_exit.test_EOF_exitsN)r   r   r   r    r7   r9   r
-   r
-t_create_missing_classŽ   r&   z0TestHBNBCommand_  r
-	wn syntax: MyModel.create()r9   r   z0TestHBNBCommand_MyModel.create()z&*** Unknown syntax: BaseModel.create()zaseModel.create()r   rI   r
-   r
-
-ÿzTestHBNBCommand_create.tearDownct_EOF_exitss   r8   z#TestHBNBCommand_exit.test_EOF_exitsN)r   r   r   r    r7   r9   r
-   r
-   r
-         
-

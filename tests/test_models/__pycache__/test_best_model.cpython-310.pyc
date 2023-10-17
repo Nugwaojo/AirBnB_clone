@@ -1,20 +1,0 @@
-o
-
- unittests for models/base_model.py.
-
-r   )r   r9   r:   rL   r0   r  r  r   Úest_save_with_arg€      estBaseModel_savez9Unittests for testing save method of the BaseModel class.c )            )     C   s(   z	t   )d )d¡ ) W d S  ty )  )  ) Y d S w ©estBaseModel_savez9Unittests for testing save method of the BaseModel class.c )            )     C   s(   z	t   )d )d¡ ) W d S  ty )  )  ) Y d S w ©estBaseModel_savez9Unittests for testing save method of the BaseModel class.c )            )     C   s(   z	t   )d )d¡ ) W d S  ty )  )  ) Y d S w ©"ÿz%TestBaseModel_save.test_save_with_argcestBaseModel_savez9Unittests for testing save method of the BaseModel class.c )            )     C   s(   z	t   )d )d¡ ) W d S  ty )  )  ) Y d S w ©                C   st_save_updates_file…   s   
-"ÿz)TestBaseModel_save.test_save_updates_fileN)р   r>   r?   r@   ÚlassmethodrH   rJ   rN   rP   rR   rX   r  r  r  r   rA   Y   s   
-TestBaseModel_to_dictz<Unittests for testing to_dict method of the BaseModel class.ct_save_updates_file…   s   
-"ÿz)TestBaseModel_save.test_save_updates_fileN)р   r>   r?   r@   ÚlassmethodrH   rJ   rN   rP   rR   rX   r  r  r  r   rA   Y   s   
-
-
-TestBaseModel_to_dictz<Unittests for testing to_dict method of the BaseModel class.ct_save_updates_file…   s   
-"ÿz)TestBaseModel_save.test_save_updates_fileN)р   r>   r?   r@   ÚlassmethodrH   rJ   rN   rP   rR   rX   r  r  r  r   rA   Y   s   
-
-
-TestBaseModel_to_dictz<Unittests for testing to_dict method of the BaseModel class.ct_save_updates_file…   s   
-tBaseModel_to_dict.test_to_dict_contains_correÿz)TestBaseModel_save.test_save_updates_fileN)р   r>   r?   r@   ÚlassmethodrH   rJ   rN   rP   rR   rX   r  r  r  r   rA   Y   s   
-
-
-'_estBaseMossertDictEqualr]   )r
-   r*   r,   Útdictr  r  r   Útest_to_dict_output¨   sdel_to_dict.test_to_dict_type5
