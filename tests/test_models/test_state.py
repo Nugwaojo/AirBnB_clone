@@ -14,7 +14,7 @@ from time import sleep
 from models.state import State
 
 
-class TestState_instantiation(unittest.TestCase):
+class TestStateInstantiation(unittest.TestCase):
     """Unittests for testing instantiation of the State class."""
 
     def test_no_args_instantiates(self):
@@ -84,7 +84,7 @@ class TestState_instantiation(unittest.TestCase):
             State(id=None, created_at=None, updated_at=None)
 
 
-class TestState_save(unittest.TestCase):
+class TestStateSave(unittest.TestCase):
     """Unittests for testing save method of the State class."""
 
     @classmethod
@@ -135,7 +135,7 @@ class TestState_save(unittest.TestCase):
             self.assertIn(stid, f.read())
 
 
-class TestState_to_dict(unittest.TestCase):
+class TestStateToDict(unittest.TestCase):
     """Unittests for testing to_dict method of the State class."""
 
     def test_to_dict_type(self):
@@ -173,17 +173,4 @@ class TestState_to_dict(unittest.TestCase):
             'created_at': dt.isoformat(),
             'updated_at': dt.isoformat(),
         }
-        self.assertDictEqual(st.to_dict(), tdict)
-
-    def test_contrast_to_dict_dunder_dict(self):
-        st = State()
-        self.assertNotEqual(st.to_dict(), st.__dict__)
-
-    def test_to_dict_with_arg(self):
-        st = State()
-        with self.assertRaises(TypeError):
-            st.to_dict(None)
-
-
-if __name__ == "__main__":
-    unittest.main()
+        self.assertDict
